@@ -3,7 +3,7 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 
-st.header('st.write')
+st.header('Demo apps mainly for st.write')
 
 # Example 1
 st.subheader('Display text')
